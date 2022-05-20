@@ -5,7 +5,7 @@
 4. Click on the bookmark
 5. Boom! it should work.
 6. Star this project
-#Common mistakes
+# Common mistakes
 1. Using the mini copy thing, it removes the javascript: from the front so you will have to add that
 # Code
 ```url
